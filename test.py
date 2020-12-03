@@ -1,6 +1,6 @@
 import cv2 as cv 
 import utils
-import result/mepso
+import src/mepso
 
 images = ['flower.png','flower2.jpg','pepper.png','pepper2.png','peppers.JPG','simpleSBdiff.png','texture.png']
 
